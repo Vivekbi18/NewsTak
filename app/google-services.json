@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580826695105",
+    "project_id": "newstak-68024",
+    "storage_bucket": "newstak-68024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580826695105:android:89b7aee34dab82c168db40",
+        "android_client_info": {
+          "package_name": "com.example.newstak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxKs8ztyCHiddUse-UrbRIHi2h4osb5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
